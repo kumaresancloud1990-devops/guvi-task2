@@ -7,3 +7,4 @@ date
 echo "Hello from Jenkins Auto Build"
 
 echo "Build Completed"
+Final Email Test
