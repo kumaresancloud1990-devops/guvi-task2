@@ -9,3 +9,4 @@ echo "Hello from Jenkins Auto Build"
 echo "Build Completed"
 
 echo "Final Email-Test 2"
+Echo "Jenkins Task 2 Completed"
